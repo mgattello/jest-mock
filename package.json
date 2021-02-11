@@ -1,0 +1,22 @@
+{
+  "name": "jest-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgattello/jest-mock.git"
+  },
+  "author": "Marco Gattello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgattello/jest-mock/issues"
+  },
+  "homepage": "https://github.com/mgattello/jest-mock#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
